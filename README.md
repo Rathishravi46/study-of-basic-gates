@@ -1,8 +1,13 @@
-### study-of-basic-gates
+**Aim
 
-**AIM:** 
+To study and verify the truth table of  different logic gates in Quartus II using Verilog programming.
+**PROGRAM**
 
-To study and verify the truth table of logic gates in Quartus II using Verilog programming.
+Program for logic gates and verify its truth table in quartus using Verilog programming
+
+ 
+NAME:RATHISH.R
+REG NUMBER:24901297
 
 **Equipments Required:**
 
@@ -62,18 +67,18 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 
-**PROGRAM**
-
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
 
-**RTL realization Output:** 
+![Screenshot 2024-11-20 114539](https://github.com/user-attachments/assets/e3a9d11c-a486-46fc-b4b7-6bac25746447)
+
+**RTL realization Output:
+
+![Screenshot 2024-11-20 113943](https://github.com/user-attachments/assets/62415f02-ccbf-4616-9cef-6e2a179e2ab3)
 
 **RTL**
 
-**Result:**
+![Screenshot 2024-11-20 114005](https://github.com/user-attachments/assets/98887620-cfb5-4efa-985c-a7117efa19fc)
 
+**Result:**
+THUS the truth table of logic gate in quatrus || using verilog programming was studies and verified
 
