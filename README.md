@@ -1,6 +1,9 @@
 ### study-of-basic-gates
 
-Name:Rathish.R  Reg no : 24901297
+Name:Rathish.R  
+
+Reg no : 24901297
+
 Date: 8.04.2025
 **AIM:** 
 
