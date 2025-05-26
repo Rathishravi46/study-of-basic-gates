@@ -1,7 +1,7 @@
 ### study-of-basic-gates
 
 Name:Rathish.R  Reg no : 24901297
-
+Date: 8.04.2025
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
